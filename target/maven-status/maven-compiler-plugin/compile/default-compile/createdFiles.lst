@@ -1,0 +1,9 @@
+entity\Category.class
+repository\ProductRepository.class
+entity\Product.class
+controller\CategoryController.class
+repository\CategoryRepository.class
+service\CategoryService.class
+service\ProductService.class
+com\example\task\TaskApplication.class
+controller\ProductController.class
